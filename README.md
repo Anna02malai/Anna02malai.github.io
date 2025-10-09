@@ -123,7 +123,7 @@ Designed a machine learning model that predicts breast cancer using preexisting 
 
 Designed a machine learning model that predicts breast cancer using preexisting models such as logistic regression, SVM, KNN, Random forest. Tuned the hyper parameters and analyzed the model's behaviour and its influence in our problem and requirements and made a case study.
 
-[Insect_Classes](Files/img/Insects.png)
+[Insects](Files/img/Insects.png)
 
 ---
 
@@ -131,9 +131,7 @@ Designed a machine learning model that predicts breast cancer using preexisting 
 
 ## 🎖️ Acheivements
 
-1. Led and represented the University of Delaware’s Team (The Salty Blue Hens) in the **[2025-Farm Robotics Challenge](https://www.farmroboticschallenge.ai/)** and won the **[Judges’ Choice Impact Award](https://www.farmroboticschallenge.ai/2025results/v/universitydelaware)** a cash reward of $2.5K.
-
-<video width="640" height="360" controls>
+1. Led and represented the University of Delaware’s Team (The Salty Blue Hens) in the **[2025-Farm Robotics Challenge](https://www.farmroboticschallenge.ai/)** and won the **[Judges’ Choice Impact Award](https://www.farmroboticschallenge.ai/2025results/v/universitydelaware)** a cash reward of $2.5K. <video width="640" height="360" controls>
   <source src="Files/video/FRC_2025.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
