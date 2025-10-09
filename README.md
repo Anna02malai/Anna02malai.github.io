@@ -133,10 +133,10 @@ Designed a machine learning model that predicts breast cancer using preexisting 
 
 1. Led and represented the University of Delaware’s Team (The Salty Blue Hens) in the **[2025-Farm Robotics Challenge](https://www.farmroboticschallenge.ai/)** and won the **[Judges’ Choice Impact Award](https://www.farmroboticschallenge.ai/2025results/v/universitydelaware)** a cash reward of $2.5K. 
 
-<video width="640" height="360" controls>
-  <source src="Files/video/FRC_2025.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+    <video width="640" height="360" controls>
+        <source src="Files/video/FRC_2025.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 
 2. Recipient of the **Graduate Teaching Assistant Award** in Mechanical Engineering for the academic year *2023-2024*.
 
