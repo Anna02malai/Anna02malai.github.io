@@ -123,7 +123,7 @@ Designed a machine learning model that predicts breast cancer using preexisting 
 
 Designed a machine learning model that predicts breast cancer using preexisting models such as logistic regression, SVM, KNN, Random forest. Tuned the hyper parameters and analyzed the model's behaviour and its influence in our problem and requirements and made a case study.
 
-[Insects](Files/img/Insects.png)
+![Insects](Files/img/Insects.png)
 
 ---
 
