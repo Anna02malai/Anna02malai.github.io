@@ -6,9 +6,9 @@
     text-align: justify;
   }
 
-img, video, table {
+/* img, video, table {
   max-width: 100%;
-}
+} */
 
 </style>
 
