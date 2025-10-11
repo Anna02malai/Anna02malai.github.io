@@ -2,9 +2,9 @@
 
 <style>
 
-<body>{
-  text-align: justify;
-}
+ body {
+    text-align: justify;
+  }
 
 img, video, table {
   max-width: 100%;
