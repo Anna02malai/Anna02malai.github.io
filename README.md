@@ -18,22 +18,22 @@
 
 **👋 Hi, I'm Annamalai Muthupalaniappan!**
 
-I am a robotics software engineer with around 4 years of experience delivering innovative solutions through advanced algorithmic development and intelligent system design. I specialize in autonomous navigation, perception, SLAM, and control systems (PID, MPC, LQR) for mobile robots and Industrial Robots. My work spans embedded systems and simulation, utilizing ROS/ROS2, Isaac Sim, Gazebo, and Rviz for physics-based modeling, as well as languages such as C++, Python, and MATLAB for development. I focus on sensor fusion (IMUs, LiDAR, GPS) and state estimation (Kalman Filters, EKF/UKF) to enable robust localization and mapping in real-world environments and ensure the path planning for the robot to autonomously navigate in an optimal and efficient way. I am passionate about applying controls and AI (computer vision, deep learning, path planning) to advance intelligent robotic systems.
+I am a robotics software engineer with around 3+ years of experience in delivering innovative solutions through advanced algorithmic development and intelligent system design. I specialize in autonomous navigation, perception, SLAM, and control systems (PID, MPC, LQR) for Mobile and Industrial Robots. My work spans embedded systems and simulation, utilizing ROS/ROS2, Isaac Sim, Gazebo, and Rviz for physics-based modeling, as well as languages such as C++, Python, and MATLAB for development. I focus on sensor fusion (IMUs, LiDAR, GPS) and state estimation (Kalman Filters, EKF/UKF) to enable robust localization and mapping in real-world environments and ensure the path planning for the robot to autonomously navigate in an optimal and efficient way. I am passionate about applying controls and AI (computer vision, deep learning, path planning) to advance intelligent robotic systems.
 
 ---
 <!-- #################################################################################################################################################################################### -->
 
 ### 🚀 Skills & Expertise
 
-**Programming & Libraries:** C++, Python, SQL, MATLAB, OpenCV, Numpy.
+**Programming & Libraries:** C++, Python, SQL, MATLAB, OpenCV, Numpy, NetworkX 
 
-**Robotics Frameworks and tools:** ROS, ROS2, Gazebo, Isaac Sim, Rviz, Simulink
+**Robotics (Core, Frameworks and tools):** ROS, ROS2, Gazebo, Isaac Sim, Rviz
 
 **Control & Estimation:** PID, MPC, LQR, Kalman Filter (EKF, UKF, Particle Filter), SLAM, Trajectory Optimization.
 
 **Sensors & Hardware:** IMUs, Gyroscopes, Accelerometers, LiDAR, GPS/GNSS, NVIDIA Jetson (Nano, Agx Orin, Zed Box), Raspberry Pi, Arduino, Feather M4 CAN, Actuator integration.
 
-**Simulation & Modeling**: Isaac Sim, Gazebo, Autodesk Fusion 360, SolidWorks, CI/CD and Git for version control and automation.
+**Programming Paradigms & Software**: OOP, Functional Programming, Bash Scriping, CI/CD and Git for version control and automation.
 
 ---
 <!-- #################################################################################################################################################################################### -->
@@ -53,7 +53,7 @@ I am a robotics software engineer with around 4 years of experience delivering i
 **Rivulet 2.0**: 
 - Designed a control system and implemented a finite-state machine integrating motors, sensors, and actuators to teleoperate a mobile gantry system on a center-pivot irrigation rig using ROS framework.
 - Integrated MID-360 LiDAR with Fast-LIO SLAM for 3D environmental mapping, obstacle detection (truss pockets), and localization to support autonomous navigation.
-- Simulated motion planning for crop coverage using a 2-DOF arm model to generate preliminary results which were accepted by USDA for a $150K research grant.
+- Simulated motion planning for crop coverage using a 2-DOF arm model to generate preliminary results which were accepted by **USDA** for a **$150K** research grant.
 
 ![Rivulet_2_0](Files/img/Rivulet.jpg)
 
@@ -68,7 +68,7 @@ I am a robotics software engineer with around 4 years of experience delivering i
 
 ### Robotics Software Intern @ Tric Robotics, San Luis Obispo, California | (_Feb 2025 - May 2025_)
 - Advisor - **[Dr.Herbert Tanner](https://me.udel.edu/faculty/herbert-tanner/)**
-- Developed a graph-based modified A*/TSP algorithm in Python (NetworkX, NumPy) to generate obstacle-aware navigation paths from GeoJSON farm data, optimizing robot traversal for constrained fields and boosting operational efficiency by 20% and treatment rate by 25%.
+- Developed a graph-based modified A*/TSP algorithm in Python (NetworkX, Shapely, NumPy) to generate obstacle-aware navigation paths from GeoJSON farm data, optimizing robot traversal for constrained fields and boosting operational efficiency by **20%** and treatment rate by **25%**.
 - Engineered an automated field-to-graph abstraction framework that converts real-world GPS coordinates into UTM-aligned plots, dynamically models crop rows and obstacles, and computes fuel, time, and labor-cost metrics for mission-level efficiency evaluation.
 
 ---
