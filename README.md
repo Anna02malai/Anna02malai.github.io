@@ -6,10 +6,6 @@
     text-align: justify;
   }
 
-/* img, video, table {
-  max-width: 100%;
-} */
-
 </style>
 
 <!-- #################################################################################################################################################################################### -->
@@ -27,9 +23,9 @@ I am a robotics software engineer with around 3+ years of experience in deliveri
 
 **Programming & Libraries:** C++, Python, SQL, MATLAB, OpenCV, Numpy, NetworkX 
 
-**Robotics (Core, Frameworks and tools):** ROS, ROS2, Gazebo, Isaac Sim, Rviz
+**Robotics Frameworks and tools:** ROS, ROS2, Gazebo, Isaac Sim, Rviz
 
-**Control & Estimation:** PID, MPC, LQR, Kalman Filter (EKF, UKF, Particle Filter), SLAM, Trajectory Optimization.
+**Control & Estimation:** PID, Kalman Filter (EKF, UKF), SLAM, Trajectory Optimization.
 
 **Sensors & Hardware:** IMUs, Gyroscopes, Accelerometers, LiDAR, GPS/GNSS, NVIDIA Jetson (Nano, Agx Orin, Zed Box), Raspberry Pi, Arduino, Feather M4 CAN, Actuator integration.
 
@@ -50,14 +46,14 @@ I am a robotics software engineer with around 3+ years of experience in deliveri
 
 ## 🛠️ Work Experience
 ### Research Assistant @ Ag-Cypher Lab, UD, USA | Advisor - [Dr.Yin Bao](https://me.udel.edu/faculty/yin-bao/) | (_June 2024 - Present_)
-**Rivulet 2.0**: 
+**Rivulet 2.0: [Github](https://anna02malai.github.io/Rivulet_2_0/)**
 - Designed a control system and implemented a finite-state machine integrating motors, sensors, and actuators to teleoperate a mobile gantry system on a center-pivot irrigation rig using ROS framework.
 - Integrated MID-360 LiDAR with Fast-LIO SLAM for 3D environmental mapping, obstacle detection (truss pockets), and localization to support autonomous navigation.
 - Simulated motion planning for crop coverage using a 2-DOF arm model to generate preliminary results which were accepted by **USDA** for a **$150K** research grant.
 
 ![Rivulet_2_0](Files/img/Rivulet.jpg)
 
-**Amiga Bot (Farm-Ng)**: 
+**Amiga Bot (Farm-Ng): [Github](https://anna02malai.github.io/Farm_ng_Amiga/)**
 - Developed and deployed a ROS 2-based teleoperation pipeline using a Jetson and Feather M4 CAN micro-controller for CAN-bus motor control and fused the MID-360 LiDAR with the robot, applied Fast-LIO for 3D mapping.
 - Developed a ROS2 package to convert the maps to 2D occupancy grids and integrated with Nav2 for autonomous SLAM navigation in greenhouse trials, improving navigation accuracy and enabling reliable row-following under GPS-denied conditions.
 - Currently extending navigation with GPS way pointing, camera-based object detection, and steering control for precise orchard row-following.
@@ -117,14 +113,14 @@ Integrated and simulated multiple path-planning algorithms (Dijkstra, Greedy BFS
 
 ---
 
-### Breast Cancer Prediction [Python, Machine Learning, ]:
+### Breast Cancer Prediction [Python, Machine Learning, Binary Classification]:
 [Github](https://github.com/Anna02malai/Machine-Learning---Intro/tree/main/Breast_Cancer_Prediction)
 
 Designed a machine learning model that predicts breast cancer using preexisting models such as logistic regression, SVM, KNN, Random forest. Tuned the hyper parameters and analyzed the model's behaviour and its influence in our problem and requirements and made a case study.
 
 ---
 
-### Classification of Harmful Insects in Agriculture [Python, Machine Learning]:
+### Classification of Harmful Insects in Agriculture [Python, Machine Learning, Multi-class Classification]:
 [Github](https://github.com/Anna02malai/Machine-Learning---Intro/tree/main/Classification_of_Harmful_Insects_in_Agriculture)
 
 Designed a machine learning model that predicts breast cancer using preexisting models such as logistic regression, SVM, KNN, Random forest. Tuned the hyper parameters and analyzed the model's behaviour and its influence in our problem and requirements and made a case study.
