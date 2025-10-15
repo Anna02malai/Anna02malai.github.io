@@ -123,7 +123,7 @@ Designed a machine learning model that predicts breast cancer using preexisting 
 ### Classification of Harmful Insects in Agriculture [Python, Machine Learning, Multi-class Classification]:
 [Github](https://github.com/Anna02malai/Machine-Learning---Intro/tree/main/Classification_of_Harmful_Insects_in_Agriculture)
 
-Designed a machine learning model that predicts breast cancer using preexisting models such as logistic regression, SVM, KNN, Random forest. Tuned the hyper parameters and analyzed the model's behaviour and its influence in our problem and requirements and made a case study.
+Developed a deep learning–based image classification system using transfer learning models (Xception, InceptionV3, ResNet50V2, etc.) to identify 15 species of harmful agricultural insects from field images. Achieved over 75% test accuracy, enabling early pest detection and precision crop protection for sustainable farming applications.
 
 ![Insects](Files/img/Insects.png)
 
